@@ -1,0 +1,26 @@
+.contenedor-icono {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #20313d;
+    height: 70px;
+    width: 70px;
+    color: #4DA07D;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    margin: 1rem;
+}
+
+.icono-carrito {
+    font-size: 2.7rem;
+    color: #fff;
+}
+
+
+.contenedor-icono:hover {
+    background-color: #4DA07D;
+    color: #20313d;
+    transition: ease-in-out .5s;
+}

@@ -1,0 +1,344 @@
+[
+    {
+      "id": "1",
+      "producto": "Paleta de padel",
+      "marca": "Adidas",
+      "modelo": "Adipower CTRL Series",
+      "descripcion": "La nueva adipower CTRL SERIES es una pala de potencia con un plus de confort. Su nuevo molde en formato oversize y la goma EVA PERFORMANCE hacen que sea una pala muy confortable. Enfocada al jugador que busca una pala de control. Pala firmada y desarrollada por el jugador WPT Alejandro Ruiz",
+      "precio": "61900",
+      "imagen": "assets/img-paletas/adipower-ctrl.jpg"
+    },
+    {
+      "id": "2",
+      "producto": "Paleta de padel",
+      "marca": "Adidas",
+      "modelo": "Adipower Soft Series",
+      "descripcion": "La nueva adipower Soft SERIES es una pala de control. Su nuevo molde en formato de lágrima y la goma  SOFT EVA hacen que sea una pala muy confortable. Posee un peso de entre 360g y 375g y está enfocada al jugador que busca una pala de control",
+      "precio": "65800",
+      "imagen": "assets/img-paletas/adipower-soft.jpg"
+    },
+    {
+      "id": "3",
+      "producto": "Paleta de padel",
+      "marca": "Adidas",
+      "modelo": "Adipower CTRL 3.1",
+      "descripcion": "Nuestra paleta más icónica en formato CTRL viene pisando fuerte. La Adipower CTRL 3.1 es la paleta de los jugadores que buscan máximo rendimiento, innovación y tecnología, sin temor a equivocarse.      ADIPOWER CTRL 3.1. ACOSTÚMBRATE A GANAR. Entra por la puerta grande con la pala perfecta. Un modelo ganador como tú, diseñado para sacar la máxima potencia en todos tus golpes. Lo conseguirás gracias a la tecnología DUAL EXOSKELETON y su composición en goma EVA HIGH MEMORY. Imprime la carga de efecto necesaria a los golpes más exigentes con la tecnología SPIN BLADE MOLD. Su formato CTRL hará que tus golpes sean muy difíciles de leer aportándote una excelente manejabilidad. Apuesta por lo que sabes que funciona y deja claro quién manda en la pista, tu Adipower CTRL está deseando ver cuál será tu próximo reto.",
+      "precio": "147900",
+      "imagen": "assets/img-paletas/adipower-ctrl-3.1.jpg"
+    },
+    {
+      "id": "4",
+      "producto": "Paleta de padel",
+      "marca": "Adidas",
+      "modelo": "Zukur CTRL 2.0 LTD Golden",
+      "descripcion": "La nueva pala ZUKUR CTRL 2.0 LTD GOLD es tu arma de precisión definitiva. Cumplirá con las expectativas del jugador que más sensaciones busca en una pala de pádel para que cada punto cuente. La composición en FIBER GLASS y la goma EVA SOFT PERFORMANCE , proporcionan unas sensaciones excepcionales. Además la tecnología SPIN BLADE te permitirá conseguir unos efectos imparables. Tú tienes el control, ahora te toca a ti decidir qué hacer.",
+      "precio": "57900",
+      "imagen": "assets/img-paletas/adidas-zukur.jpg"
+    },
+    {
+      "id": "5",
+      "producto": "Paleta de padel",
+      "marca": "Adidas",
+      "modelo": "Metalbone 3.1",
+      "descripcion": "Más innovación, más tecnología, más soluciones inesperadas para llevar tu juego a una nueva dimensión. La pala incorpora la tecnología OCTOGONAL STRUCTURE, un diseño exclusivo que aporta gran rigidez a toda la estructura para que puedas imprimir toda tu potencia a cada golpe. Además, la pala está diseñada en formato diamante, que te ayudará aún más a sacar la mayor velocidad y potencia en tu juego. Con el sistema WEIGHT AND BALANCE SYSTEM podrás configurar la pala a tu gusto según las exigencias de tu próximo partido. Disfruta de una sensación de golpeo única con la unión de la fibra CARBON ALUMINIZED junto con la tecnología SPIN BLADE OCTOGONAL. Más potencia y efectos en todos tus golpes. Su composición en goma EVA SOFT PERFORMANCE te permitirá disfrutar del máximo confort en cada golpe.",
+      "precio": "155790",
+      "imagen": "assets/img-paletas/metalbone.jpg"
+    },
+    {
+      "id": "6",
+      "producto": "Paleta de padel",
+      "marca": "Bullpadel",
+      "modelo": "Vertex comfort 22",
+      "descripcion": "La Vertex 03 Comfort es una pala con forma de diamante, de máxima potencia, alto rendimiento sin pérdidas de control.• Peso: 360-370 grs.",
+      "precio": "89000",
+      "imagen": "assets/img-paletas/vertex-comfort.jpg"
+    },
+    {
+      "id": "7",
+      "producto": "Paleta de padel",
+      "marca": "Bullpadel",
+      "modelo": "Vertex control 22",
+      "descripcion": "La Vertex 03 Control es una pala redonda de máximo control, con superficie rugosa Topspin.",
+      "precio": "120800",
+      "imagen": "assets/img-paletas/vertex-control.jpg"
+    },
+    {
+      "id": "8",
+      "producto": "Paleta de padel",
+      "marca": "Bullpadel",
+      "modelo": "Hack 03 comfort 22",
+      "descripcion": "La pala Hack Comfort es una pala con forma de diamante, de máxima potencia y alto rendimiento sin pérdidas de control.",
+      "precio": "89000",
+      "imagen": "assets/img-paletas/hack-03.jpg"
+    },
+    {
+      "id": "9",
+      "producto": "Paleta de padel",
+      "marca": "Bullpadel",
+      "modelo": "Ionic power 22",
+      "descripcion": "La nueva paleta Bullpadel Ionic Power, es una paleta muy mabejable y eficaz en la pista.",
+      "precio": "109000",
+      "imagen": "assets/img-paletas/ionic-power.jpg"
+    },
+    {
+      "id": "10",
+      "producto": "Paleta de padel",
+      "marca": "Head",
+      "modelo": "Delta pro",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis nisl pellentesque, auctor erat quis, ullamcorper orci. Nulla mi nunc, pharetra nec cursus a, fringilla non diam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nec molestie quam, in aliquet nisl. Nunc mollis tempus tristique. Morbi commodo enim et mauris fringilla consectetur. Sed a justo porta purus placerat eleifend. Sed augue magna, sollicitudin non bibendum in, sagittis et purus. Praesent accumsan purus eros, ut varius nibh aliquam ac. Nam sagittis leo lorem, in varius massa aliquet at. Integer aliquet mauris eget malesuada fringilla. Proin pulvinar gravida risus vitae faucibus. Cras eros tortor, congue non augue ac, imperdiet bibendum justo. Donec quis iaculis arcu.",
+      "precio": "107730",
+      "imagen": "assets/img-paletas/delta-pro.jpg"
+    },
+    {
+      "id": "11",
+      "producto": "Paleta de padel",
+      "marca": "Head",
+      "modelo": "Zephyr pro",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis nisl pellentesque, auctor erat quis, ullamcorper orci. Nulla mi nunc, pharetra nec cursus a, fringilla non diam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nec molestie quam, in aliquet nisl. Nunc mollis tempus tristique. Morbi commodo enim et mauris fringilla consectetur. Sed a justo porta purus placerat eleifend. Sed augue magna, sollicitudin non bibendum in, sagittis et purus. Praesent accumsan purus eros, ut varius nibh aliquam ac. Nam sagittis leo lorem, in varius massa aliquet at. Integer aliquet mauris eget malesuada fringilla. Proin pulvinar gravida risus vitae faucibus. Cras eros tortor, congue non augue ac, imperdiet bibendum justo. Donec quis iaculis arcu.",
+      "precio": "79515",
+      "imagen": "assets/img-paletas/zephyr-pro.jpg"
+    },
+    {
+      "id": "12",
+      "producto": "Paleta de padel",
+      "marca": "Head",
+      "modelo": "Gamma pro",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis nisl pellentesque, auctor erat quis, ullamcorper orci. Nulla mi nunc, pharetra nec cursus a, fringilla non diam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nec molestie quam, in aliquet nisl. Nunc mollis tempus tristique. Morbi commodo enim et mauris fringilla consectetur. Sed a justo porta purus placerat eleifend. Sed augue magna, sollicitudin non bibendum in, sagittis et purus. Praesent accumsan purus eros, ut varius nibh aliquam ac. Nam sagittis leo lorem, in varius massa aliquet at. Integer aliquet mauris eget malesuada fringilla. Proin pulvinar gravida risus vitae faucibus. Cras eros tortor, congue non augue ac, imperdiet bibendum justo. Donec quis iaculis arcu.",
+      "precio": "82935",
+      "imagen": "assets/img-paletas/gamma-pro.jpg"
+    },
+    {
+      "id": "13",
+      "producto": "Paleta de padel",
+      "marca": "Wilson",
+      "modelo": "Blade pro v2",
+      "descripcion": "La sensación inigualable y el diseño elegante chocan en la nueva Blade Pro v2. Equipada con una pieza que ayuda a bajar el punto de equilibrio para una mayor maniobrabilidad, perfecta para un juego rápido, esta pala ofrece un doble golpe de potencia y efectos ligeros gracias a su fuerte composición de fibra de carbono y superficie texturizada. Los jugadores avanzados que busquen una pala en forma de lágrima con una construcción de primera calidad, un diseño impresionante y una sensación superior de la pelota deberían echarle un vistazo a la Blade Pro v2.",
+      "precio": "82935",
+      "imagen": "assets/img-paletas/blade-pro.jpg"
+    },
+    {
+      "id": "14",
+      "producto": "Paleta de padel",
+      "marca": "Nox",
+      "modelo": "AT Luxury Genius 18k",
+      "descripcion": "Tras el rotundo éxito de la AT10 LUXURY GENIUS ARENA llega la nueva AT10 LUXURY GENIUS 18K desarrollada conjuntamente con Agustín Tapia. Comparte con su predecesora el molde y goma HR3 que tanto gustan a Agustín pero introduce como novedad las caras en fibra de carbono 18K que aportan un plus de firmeza en el tacto con la bola.",
+      "precio": "92000",
+      "imagen": "assets/img-paletas/nox-tapia.jpg"
+    },
+    {
+      "id": "15",
+      "producto": "Paleta de padel",
+      "marca": "Nox",
+      "modelo": "ML10 Pro Cup Luxury Series 2022",
+      "descripcion": "El modelo más iconico de la marca, la pala Nox ML10 Pro Cup Luxury Series 2022, ha sido renovado por la firma para la nueva temporada. Esta pala se ha convertido en la más vendida de Nox durante los últimos años y la marca ha lanzado esta nueva edición para hacer un merecido homenaje a este modelo súper ventas.",
+      "precio": "75000",
+      "imagen": "assets/img-paletas/nox-lamperti.jpg"
+    },
+    {
+      "id": "16",
+      "producto": "Paleta de padel",
+      "marca": "Varlion",
+      "modelo": "Cañon Carbon Black Difusor 22",
+      "descripcion": "Está fabricada mediante un tubular bidireccional de carbono y un núcleo de foam Hypersoft de dureza media, laminado mediante tejido plain de fibra de vidrio y fibra de carbono. Su corazón está además reforzado con tejido plain de fibra de carbono.Todos los materiales están impregnados en resina epoxi VAR-FLEX exclusiva de Varlion, para obtener la máxima elasticidad y resistencia, y recubiertos por una capa de dióxido de titanio.",
+      "precio": "99900",
+      "imagen": "assets/img-paletas/black-difusor.jpg"
+    },
+    {
+      "id": "17",
+      "producto": "Paleta de padel",
+      "marca": "Varlion",
+      "modelo": "LW Pansy 7",
+      "descripcion": "Está diseñada con marco hexagonal y fabricada mediante un tubular bidireccional de carbono. El núcleo es de Eva Hypersoft de 38mm de dureza media y está laminado mediante capas de tejido de carbono 7 Rhombus y de fibra de vidrio. La zona del corazón está reforzada con tejido de fibra de carbono impregnado en resina epoxi VAR-FLEX exclusiva de Varlion para obtener la máxima elasticidad y resistencia, y recubierta por una capa de dióxido de titanio.",
+      "precio": "79000",
+      "imagen": "assets/img-paletas/pansy7.jpg"
+    },
+    {
+      "id": "18",
+      "producto": "Paleta de padel",
+      "marca": "Varlion",
+      "modelo": "Bourne Summum prisma radio",
+      "descripcion": "Una de las novedades más importantes de este modelo es la tecnología Radio, que implica una revolución en la fabricación, resistencia y prestaciones de las palas de pádel. Con ella se conseguió producir la primera pala que sale ya agujereada de su propio molde. Esto es posible gracias a 2 factores: primero, el desarrollo de un nuevo molde que incluye el relieve de los agujeros hacia afuera; y segundo, los materiales son pre-agujereados y recortados antes de ser introducidos en el mismo. Esto hace que la pala salga con los agujeros ya hechos y con un radio redondeado y suave.",
+      "precio": "147000",
+      "imagen": "assets/img-paletas/summum-prisma.jpg"
+    },
+    {
+      "id": "19",
+      "producto": "Paleta de padel",
+      "marca": "Varlion",
+      "modelo": "LW Carbon 7",
+      "descripcion": "Esta pala está diseñada con marco Hexagon para dar mayor rigidez y resistencia, y está protegido por el protector Hexagon inyectado adhesivo. Este protector está producido a través de un molde de inyección en TPU de baja dureza para absorber golpes y rozaduras. Por otro lado, en su corazón encontramos un puente denominado Hexaforce, el cual le aporta más rigidez a la zona.",
+      "precio": "69990",
+      "imagen": "assets/img-paletas/lw-carbon-7.jpg"
+    },
+    {
+      "id": "20",
+      "producto": "Paleta de padel",
+      "marca": "Siux",
+      "modelo": "Diablo revolution 3k",
+      "descripcion": "El sistema Revolution consiste en un bitubular plano en el marco de la pala que, unido al puente con cuatro brazos, ofrece una increíble absorción de las vibraciones, con mayor consistencia y firmeza en el golpe. Incluye cuatro antivibradores Shockout incorporados, que mejoran la comodidad y previenen las lesiones. Cuenta con carbono 3K en sus planos, el más duro de los tres que conforman esta gama y por ello es la pala más consistente de las tres, logrando un tacto más duro y un gran equilibrio.",
+      "precio": "83760",
+      "imagen": "assets/img-paletas/siux-3k.jpg"
+    },
+    {
+      "id": "21",
+      "producto": "Paleta de padel",
+      "marca": "Siux",
+      "modelo": "Diablo revolution 12k",
+      "descripcion": "Gracias a su balance medio, es ideal para aportar un juego equilibrado. Su núcleo está fabricado con goma EVA Ultra Soft High Recovery de 5 Laminaciones, lo que mejora el control de cada golpe y aporta una mayor velocidad en la salida de bola",
+      "precio": "89670",
+      "imagen": "assets/img-paletas/siux-12k.jpg"
+    },
+    {
+      "id": "22",
+      "producto": "Paleta de padel",
+      "marca": "Siux",
+      "modelo": "Electra ST1",
+      "descripcion": "Esta nueva pala de pádel Siux se ha fabricado en exclusiva siguiendo las exigencias de Stupa, uno de los mejores jugadores del mundo. Se trata de la Siux Electra ST1, un modelo fabricado con carbono 12K que cuenta con un acabado brillo y arenoso.",
+      "precio": "90000",
+      "imagen": "assets/img-paletas/electra.jpg"
+    },
+    {
+      "id": "23",
+      "producto": "Paleta de padel",
+      "marca": "Siux",
+      "modelo": "Genesis Hybrid black carbon",
+      "descripcion": "Esta pala de pádel Siux incluye el Pentacore System en la zona del cuello, ideal para reducir las vibraciones. Cuenta con un balance medio-alto, una forma híbrida y un equilibrio increíble entre potencia y control. En definitiva, es ideal para atacar en la red y para defender al fondo de la pista.",
+      "precio": "72000",
+      "imagen": "assets/img-paletas/genesis-hybrid.jpg"
+    },
+    {
+      "id": "24",
+      "producto": "Paleta de padel",
+      "marca": "Royal Padel",
+      "modelo": "Toro pro",
+      "descripcion": "Componentes: Fibra de vidrio. Nucleo: Foam. Formato: Triangular. Balance: Cercano a la punta de la paleta. Perfil: 38 mm. constantes. Otros: Ideal para mayor potencia. Corazón reforzado – Mayor superficie de impacto.",
+      "precio": "36900",
+      "imagen": "assets/img-paletas/toro-pro.jpg"
+    },
+    {
+      "id": "25",
+      "producto": "Paleta de padel",
+      "marca": "Royal Padel",
+      "modelo": "W-pro Buenos Aires",
+      "descripcion": "Desarrollada con materiales de gran calidad entre los que se destacan su corazón de carbono, resina epoxi y fiberglass, esta pala busca que consolides tu juego brindando las mejores características técnicas. Su formato redondo, presenta un espesor de 38 mm con sistema Schock Absortion ubicado en su corazón abierto realizado en tejido de carbono de alta densidad. Con núcleo de FOAM, laminado con tres capas de tejido de vidrio y carbono y un aspecto moderno y netamente ganador, esta paleta propulsa tu performance dentro de la cancha a niveles de excelencia nunca antes imaginados.",
+      "precio": "36900",
+      "imagen": "assets/img-paletas/bsas.jpg"
+    },
+    {
+      "id": "26",
+      "producto": "Bolso paletero",
+      "marca": "Bullpadel",
+      "modelo": "Avantline mid capacity",
+      "descripcion": "Este paletero está dividido en los siguientes compartimentos: compartimento principal grande, ideal para el equipamiento o ropa de cambio, compartimentos laterales para las palas, compartimento frontal pequeño objetos personales, bolsillo independiente para el calzado o ropa sucia, correas acolchadas con refuerzos y 1 asa de mano",
+      "precio": "19200",
+      "imagen": "assets/img-accesorios/bolso-bullpadel.jpg"
+    },
+    {
+      "id": "27",
+      "producto": "Bolso paletero",
+      "marca": "Steel",
+      "modelo": "Custom",
+      "descripcion": "El bolso paletero Steel Custom es excelente modelo con el cual podes llevar tu equipo a cada partido o entrenamiento. Cuenta con un bolsillo lateral para una paleta. Amplio bolsillo principal para ropa, zapatillas, toallas, etc. Ademas, un bolsillo en la parte inferior del tamaño del largo para objetos mas pequeños como llaves, billeteras o similares. Gracias a sus correas acolchadas se puede transportar como mochila o bien con sus asas como bolso de mano. Un modelo practico, cómodo y con un diseño único!",
+      "precio": "15900",
+      "imagen": "assets/img-accesorios/bolso-steel.jpg"
+    },
+    {
+      "id": "28",
+      "producto": "Bolso paletero",
+      "marca": "NOX",
+      "modelo": "Trolley",
+      "descripcion": "Cómodo paletero de pádel de NOX en formato trolley, con brazo extensible de dos posiciones y ruedas, para facilitar tus viajes o desplazamientos a las pistas de pádel y tenis.",
+      "precio": "26500",
+      "imagen": "assets/img-accesorios/bolso-nox.jpg"
+    },
+    {
+      "id": "29",
+      "producto": "Zapatillas",
+      "marca": "Adidas",
+      "modelo": "GameCourt 2",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras et posuere erat. Ut aliquet, felis a pulvinar suscipit, ante massa molestie ex, quis fermentum diam augue id libero. Quisque a magna eget quam ullamcorper gravida ac id risus. Curabitur et nisl interdum, vestibulum orci id, ultricies quam. Mauris sit amet eros non nulla suscipit fringilla. Maecenas condimentum turpis lectus, vitae lobortis lacus maximus aliquet. Etiam condimentum sodales justo non suscipit. Vivamus vestibulum ultricies lectus.",
+      "precio": "28900",
+      "imagen": "assets/img-zapatillas/zapatilla-adidas-gamecourt.jpg"
+    },
+    {
+      "id": "30",
+      "producto": "Zapatillas",
+      "marca": "Asics",
+      "modelo": "Gel Rebound Woman",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras et posuere erat. Ut aliquet, felis a pulvinar suscipit, ante massa molestie ex, quis fermentum diam augue id libero. Quisque a magna eget quam ullamcorper gravida ac id risus. Curabitur et nisl interdum, vestibulum orci id, ultricies quam. Mauris sit amet eros non nulla suscipit fringilla. Maecenas condimentum turpis lectus, vitae lobortis lacus maximus aliquet. Etiam condimentum sodales justo non suscipit. Vivamus vestibulum ultricies lectus.",
+      "precio": "27900",
+      "imagen": "assets/img-zapatillas/zapatilla-asics-woman.jpg"
+    },
+    {
+      "id": "31",
+      "producto": "Zapatillas",
+      "marca": "Asics",
+      "modelo": "Gel Blackhand men",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras et posuere erat. Ut aliquet, felis a pulvinar suscipit, ante massa molestie ex, quis fermentum diam augue id libero. Quisque a magna eget quam ullamcorper gravida ac id risus. Curabitur et nisl interdum, vestibulum orci id, ultricies quam. Mauris sit amet eros non nulla suscipit fringilla. Maecenas condimentum turpis lectus, vitae lobortis lacus maximus aliquet. Etiam condimentum sodales justo non suscipit. Vivamus vestibulum ultricies lectus.",
+      "precio": "26900",
+      "imagen": "assets/img-zapatillas/zapatilla-asics-men.jpg"
+    },
+    {
+      "id": "32",
+      "producto": "Tubo de pelotas x3",
+      "marca": "Adidas",
+      "modelo": "Speed RX",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras et posuere erat. Ut aliquet, felis a pulvinar suscipit, ante massa molestie ex, quis fermentum diam augue id libero. Quisque a magna eget quam ullamcorper gravida ac id risus. Curabitur et nisl interdum, vestibulum orci id, ultricies quam. Mauris sit amet eros non nulla suscipit fringilla. Maecenas condimentum turpis lectus, vitae lobortis lacus maximus aliquet. Etiam condimentum sodales justo non suscipit. Vivamus vestibulum ultricies lectus.",
+      "precio": "3390",
+      "imagen": "assets/img-accesorios/tubo-adidas.jpg"
+    },
+    {
+      "id": "33",
+      "producto": "Tubo de pelotas x2",
+      "marca": "Nassau",
+      "modelo": "Premium",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras et posuere erat. Ut aliquet, felis a pulvinar suscipit, ante massa molestie ex, quis fermentum diam augue id libero. Quisque a magna eget quam ullamcorper gravida ac id risus. Curabitur et nisl interdum, vestibulum orci id, ultricies quam. Mauris sit amet eros non nulla suscipit fringilla. Maecenas condimentum turpis lectus, vitae lobortis lacus maximus aliquet. Etiam condimentum sodales justo non suscipit. Vivamus vestibulum ultricies lectus.",
+      "precio": "2200",
+      "imagen": "assets/img-accesorios/tubo-nassau.jpg"
+    },
+    {
+      "id": "34",
+      "producto": "Tubo de pelotas x3",
+      "marca": "Head",
+      "modelo": "Pro",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras et posuere erat. Ut aliquet, felis a pulvinar suscipit, ante massa molestie ex, quis fermentum diam augue id libero. Quisque a magna eget quam ullamcorper gravida ac id risus. Curabitur et nisl interdum, vestibulum orci id, ultricies quam. Mauris sit amet eros non nulla suscipit fringilla. Maecenas condimentum turpis lectus, vitae lobortis lacus maximus aliquet. Etiam condimentum sodales justo non suscipit. Vivamus vestibulum ultricies lectus.",
+      "precio": "3930",
+      "imagen": "assets/img-accesorios/tubo-head.jpg"
+    },
+    {
+      "id": "35",
+      "producto": "Cubregrip",
+      "marca": "Head",
+      "modelo": "Prime pro x3",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras et posuere erat. Ut aliquet, felis a pulvinar suscipit, ante massa molestie ex, quis fermentum diam augue id libero. Quisque a magna eget quam ullamcorper gravida ac id risus. Curabitur et nisl interdum, vestibulum orci id, ultricies quam. Mauris sit amet eros non nulla suscipit fringilla. Maecenas condimentum turpis lectus, vitae lobortis lacus maximus aliquet. Etiam condimentum sodales justo non suscipit. Vivamus vestibulum ultricies lectus.",
+      "precio": "2550",
+      "imagen": "assets/img-accesorios/cubregirp-head.jpg"
+    },
+    {
+      "id": "36",
+      "producto": "Cubregrip",
+      "marca": "X-Trust",
+      "modelo": "Caramelera x60",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras et posuere erat. Ut aliquet, felis a pulvinar suscipit, ante massa molestie ex, quis fermentum diam augue id libero. Quisque a magna eget quam ullamcorper gravida ac id risus. Curabitur et nisl interdum, vestibulum orci id, ultricies quam. Mauris sit amet eros non nulla suscipit fringilla. Maecenas condimentum turpis lectus, vitae lobortis lacus maximus aliquet. Etiam condimentum sodales justo non suscipit. Vivamus vestibulum ultricies lectus.",
+      "precio": "15000",
+      "imagen": "assets/img-accesorios/cubregrip-xtrust.jpg"
+    },
+    {
+      "id": "37",
+      "producto": "Muñequera",
+      "marca": "Bullpadel",
+      "modelo": "Cortas x2",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras et posuere erat. Ut aliquet, felis a pulvinar suscipit, ante massa molestie ex, quis fermentum diam augue id libero. Quisque a magna eget quam ullamcorper gravida ac id risus. Curabitur et nisl interdum, vestibulum orci id, ultricies quam. Mauris sit amet eros non nulla suscipit fringilla. Maecenas condimentum turpis lectus, vitae lobortis lacus maximus aliquet. Etiam condimentum sodales justo non suscipit. Vivamus vestibulum ultricies lectus.",
+      "precio": "1500",
+      "imagen": "assets/img-accesorios/muniquera-corta.jpg"
+    },
+    {
+      "id": "38",
+      "producto": "Muñequera",
+      "marca": "Bullpadel",
+      "modelo": "Largas x2",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras et posuere erat. Ut aliquet, felis a pulvinar suscipit, ante massa molestie ex, quis fermentum diam augue id libero. Quisque a magna eget quam ullamcorper gravida ac id risus. Curabitur et nisl interdum, vestibulum orci id, ultricies quam. Mauris sit amet eros non nulla suscipit fringilla. Maecenas condimentum turpis lectus, vitae lobortis lacus maximus aliquet. Etiam condimentum sodales justo non suscipit. Vivamus vestibulum ultricies lectus.",
+      "precio": "1800",
+      "imagen": "assets/img-accesorios/muniquera-larga.jpg"
+    }
+  ]

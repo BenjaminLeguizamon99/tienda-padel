@@ -1,0 +1,17 @@
+.item-btn {
+    background-color: #20313d;
+    padding: .6rem;
+    display: inline-block;
+    border-radius: .6rem;
+    color: #4DA07D;
+}
+
+.item-btn:hover {
+    background-color: #4DA07D;
+    color: #20313d;
+    transition: .5s;
+}
+
+.card-producto {
+    margin: 1.2rem 0;
+}
