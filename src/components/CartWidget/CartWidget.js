@@ -9,7 +9,7 @@ const CartWidget = () => {
         <Link to='/carrito' className='carrito'>
           <BsCart className='icono-carrito' />
         </Link>
-        
+        <div className='cantidad-elementos'>0</div>
     </div>
   )
 }

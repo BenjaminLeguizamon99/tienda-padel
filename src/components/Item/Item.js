@@ -1,9 +1,10 @@
-import React from 'react'
+import React, {useContext} from 'react'
 import Card from 'react-bootstrap/Card';
 import './item.css'
 import { Link } from 'react-router-dom'
+import CartProvider from '../../context/CartContext';
 
-const Item = ({ product }) => {
+const Item = ({ product }) => {  
   return (
     <Card className='card-producto' style={{ width: '18rem', borderRadius: '.7rem', boxShadow: 'rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px'}}>
       <Card.Img variant="top" src={product.imagen} />
