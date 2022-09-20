@@ -29,7 +29,12 @@ const ItemDetail = ({info}) => {
                 <p className='precio-detalle'>Precio: ${info.precio}</p>
             </div>
             {
-              goToCart ? <Link to='/carrito' className='btn-detalle mb-3'>Terminar compra</Link> : <ItemCount initial={1} stock={6} onAdd = {onAdd} />
+              goToCart ? <div>
+                <Link to='/carrito' className='btn-detalle mb-3 mx-2'>Terminar compra</Link>
+                <Link to='/productos' className='btn-detalle mb-3 mx-2'>Ver más productos</Link>
+                </div> 
+                : 
+                <ItemCount initial={1} stock={6} onAdd = {onAdd} />
             }
         </div>
     </div>

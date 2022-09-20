@@ -1,9 +1,10 @@
 import React from 'react'
+import Cart from '../../components/Cart/Cart'
 
 const Carrito = () => {
   return (
     <div>
-        <h1 className='text-uppercase mt-3'>Carrito</h1>
+      <Cart />
     </div>
   )
 }

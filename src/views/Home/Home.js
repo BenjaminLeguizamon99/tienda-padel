@@ -8,34 +8,34 @@ const Home = () => {
       <div>
         <h1>Córdoba Padel</h1>
       </div>
-      <div className='pb-4 contenedor-carrusel col-md-12'>
+      <div className='pb-4 contenedor-carrusel'>
       <Carousel>
         <Carousel.Item interval={3000}>
-          <img src='../../../assets/img-home/padel-1.jpg' className='img-fluid img-carousel' />
+          <img src='../../../assets/img-home/padel-1.jpg' alt='jugadores de wpt' className='img-carousel' />
         </Carousel.Item>
         <Carousel.Item interval={3000}>
-          <img src='../../../assets/img-home/padel-2.jpg' className='img-fluid img-carousel' />
+          <img src='../../../assets/img-home/padel-2.jpg' alt='jugadores de wpt' className='img-fluid img-carousel' />
         </Carousel.Item>
         <Carousel.Item interval={3000}>
-          <img src='../../../assets/img-home/padel-3.jpg' className='img-fluid img-carousel' />
+          <img src='../../../assets/img-home/padel-3.jpg' alt='jugadores de wpt' className='img-fluid img-carousel' />
         </Carousel.Item>
         <Carousel.Item interval={3000}>
-          <img src='../../../assets/img-home/padel-4.jpg' className='img-fluid img-carousel' />
+          <img src='../../../assets/img-home/padel-4.jpg' alt='jugadores de wpt' className='img-fluid img-carousel' />
         </Carousel.Item>
         <Carousel.Item interval={3000}>
-          <img src='../../../assets/img-home/padel-5.jpg' className='img-fluid img-carousel' />
+          <img src='../../../assets/img-home/padel-5.jpg' alt='jugadores de wpt' className='img-fluid img-carousel' />
         </Carousel.Item>
         <Carousel.Item interval={3000}>
-          <img src='../../../assets/img-home/padel-6.jpg' className='img-fluid img-carousel' />
+          <img src='../../../assets/img-home/padel-6.jpg' alt='jugadores de wpt' className='img-fluid img-carousel' />
         </Carousel.Item>
         <Carousel.Item interval={3000}>
-          <img src='../../../assets/img-home/padel-7.jpg' className='img-fluid img-carousel' />
+          <img src='../../../assets/img-home/padel-7.jpg' alt='jugadores de wpt' className='img-fluid img-carousel' />
         </Carousel.Item>
         <Carousel.Item interval={3000}>
-          <img src='../../../assets/img-home/padel-8.jpg' className='img-fluid img-carousel' />
+          <img src='../../../assets/img-home/padel-8.jpg' alt='jugadores de wpt' className='img-fluid img-carousel' />
         </Carousel.Item>
         <Carousel.Item interval={3000}>
-          <img src='../../../assets/img-home/padel-9.jpg' className='img-fluid img-carousel' />
+          <img src='../../../assets/img-home/padel-9.jpg' alt='jugadores de wpt' className='img-fluid img-carousel' />
         </Carousel.Item>
       </Carousel>
       </div>
