@@ -6,8 +6,8 @@ import ItemListContainer from '../../components/ItemListContainer/ItemListContai
 const Productos = () => {
   return (
     <div>
-        <ItemListContainer />
-        <CartWidget />
+      <ItemListContainer />
+      <CartWidget />
     </div>
   )
 }

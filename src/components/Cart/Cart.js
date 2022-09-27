@@ -26,7 +26,7 @@ const Cart = () => {
           <h4>Total: ${totalPrice()}</h4>
         </div>
         <div>
-          <Link to='/productos'>
+          <Link to='/categoria'>
             <button className='btn-seguir-comprando'>Seguir comprando</button>
           </Link>
           <button className='btn-finalizar-compra'>
@@ -34,7 +34,6 @@ const Cart = () => {
           </button>
           <button className='btn-limpiar-carrito' onClick={clearCart}>Limpiar carrito</button>
         </div>
-
       </div>
 
     )

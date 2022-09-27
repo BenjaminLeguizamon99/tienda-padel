@@ -8,7 +8,7 @@ const ItemCart = ({product}) => {
   return (
     <div className='container contenedor-item-cart mt-4'>
         <div>
-            <img src={product.imagen} alt={product.modelo} className='img-fluid img-item-cart' />
+            <img src={product.img} alt={product.modelo} className='img-fluid img-item-cart' />
         </div>
         <div className='my-auto'>
             <h4>{product.producto + ' ' + product.marca}</h4>

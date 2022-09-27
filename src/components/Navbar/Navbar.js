@@ -24,7 +24,7 @@ const BarraNavegacion = () => {
                         <Link to='/' className='link-navbar'>Home</Link>
                         </Nav.Item>
                         <Nav.Item>
-                            <Link to='/productos' className='link-navbar'>Tienda</Link>
+                            <Link to='/categoria' className='link-navbar'>Tienda</Link>
                         </Nav.Item>
                         <Nav.Item>
                             <Link to='/about' className='link-navbar'>Sobre nosotros</Link>

@@ -24,10 +24,11 @@ function App() {
         <CartProvider>
           <Routes>
             <Route path='/' element={<Home />} />
-            <Route path='/productos' element={<Productos />} />
+            <Route path='/categoria' element={<Productos />} />
+            <Route path='/categoria/:categoriaId' element={<Productos />} />
             <Route path='/about' element={<About />} />
             <Route path='/contact' element={<Contact />} />
-            <Route path='/detail/:id' element={<ProductDetail />} />
+            <Route path='/detail/:detalleId' element={<ProductDetail />} />
             <Route path='/carrito' element={<Carrito />} />
           </Routes> 
         </CartProvider>     
