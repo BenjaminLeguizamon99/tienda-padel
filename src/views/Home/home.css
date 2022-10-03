@@ -1,32 +1,30 @@
-.bg-color {
-    background-color: #20313d;
-    height: 100%;
-}
-.bg-color h1{
-    color: #fff;
-    letter-spacing: .7rem;
-    font-size: 3.5rem;
+.home-titulo {
+    text-align: center;
+    font-size: 2.5rem;
     text-transform: uppercase;
-    font-family: 'Russo One', sans-serif;
-    color: #4DA07D;
+    letter-spacing: .3rem;
+    margin-bottom: 1rem;
+    color: #20313d;
 }
 
-.bg-color img {
-    width: 70vw;
-    height: 90vh;
-}
-
-.img-carousel {
-    border-radius: 1rem;
-}
-
-.parrafo-home {
-    color: #fff;
-    font-size: 1.2rem;
+.home-parrafo {
+    font-size: 1.1rem;
     line-height: 2rem;
+    color: #20313d;
+}
+.home-link {
+    text-decoration: none;
 }
 
-.contenedor-carrusel {
-    width: 90%;
+.home-btn {
+    background-color: #20313d;
+    color: #4DA07D;
+    display: inline-block;
+    padding: 1rem 1.5rem;
+    border-radius: .7rem;
 }
 
+.home-btn:hover {
+    transform: scale(1.1,1.1);
+    transition: .5s;
+}

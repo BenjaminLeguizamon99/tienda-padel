@@ -1,50 +1,31 @@
 import React from 'react'
+import CartWidget from '../../components/CartWidget/CartWidget'
+import { Link } from 'react-router-dom'
+import ItemListContainer from '../../components/ItemListContainer/ItemListContainer'
 import './home.css'
-import Carousel from 'react-bootstrap/Carousel';
 
-const Home = () => {
+const Productos = () => {
   return (
-    <div className='bg-color'>
-      <div>
-        <h1>Córdoba Padel</h1>
+    <div>
+        <div className='container'>
+          <div className='row'>
+            <div className='col-md-6 contenedor-img-home'>
+              <img src='../../../assets/img-home/tienda.jpg' alt='Foto del local' className='img-fluid my-4 rounded shadow'></img>
+            </div>
+            <div className='col-md-6 my-auto'>
+              <h1 className=' home-titulo'>Córdoba Padel</h1>
+              <p className='home-parrafo'>Somos una tienda de Padel ubicada en la zona norte de la Ciudad de Córdoba. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ante eros, congue vitae eros eu, imperdiet gravida nisl. In euismod ligula nec libero convallis, vel.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ante eros </p>
+              <Link to='/contact' className='home-link'>
+                <div className='home-btn'>Necesito sponsor!</div>
+              </Link>
+            </div>
+          </div>
+         
       </div>
-      <div className='pb-4 contenedor-carrusel'>
-      <Carousel>
-        <Carousel.Item interval={3000}>
-          <img src='../../../assets/img-home/padel-1.jpg' alt='jugadores de wpt' className='img-carousel' />
-        </Carousel.Item>
-        <Carousel.Item interval={3000}>
-          <img src='../../../assets/img-home/padel-2.jpg' alt='jugadores de wpt' className='img-fluid img-carousel' />
-        </Carousel.Item>
-        <Carousel.Item interval={3000}>
-          <img src='../../../assets/img-home/padel-3.jpg' alt='jugadores de wpt' className='img-fluid img-carousel' />
-        </Carousel.Item>
-        <Carousel.Item interval={3000}>
-          <img src='../../../assets/img-home/padel-4.jpg' alt='jugadores de wpt' className='img-fluid img-carousel' />
-        </Carousel.Item>
-        <Carousel.Item interval={3000}>
-          <img src='../../../assets/img-home/padel-5.jpg' alt='jugadores de wpt' className='img-fluid img-carousel' />
-        </Carousel.Item>
-        <Carousel.Item interval={3000}>
-          <img src='../../../assets/img-home/padel-6.jpg' alt='jugadores de wpt' className='img-fluid img-carousel' />
-        </Carousel.Item>
-        <Carousel.Item interval={3000}>
-          <img src='../../../assets/img-home/padel-7.jpg' alt='jugadores de wpt' className='img-fluid img-carousel' />
-        </Carousel.Item>
-        <Carousel.Item interval={3000}>
-          <img src='../../../assets/img-home/padel-8.jpg' alt='jugadores de wpt' className='img-fluid img-carousel' />
-        </Carousel.Item>
-        <Carousel.Item interval={3000}>
-          <img src='../../../assets/img-home/padel-9.jpg' alt='jugadores de wpt' className='img-fluid img-carousel' />
-        </Carousel.Item>
-      </Carousel>
-      </div>
-      
-      <div className='container d-flex flex-column justify-content-center'>
-        <p className='parrafo-home my-4'>Somos una tienda de Padel ubicada en la zona norte de la ciudad de Córdoba. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec justo ut lectus interdum rhoncus. Morbi gravida mi quis facilisis maximus. Nam et commodo diam, et lacinia felis. Vivamus gravida porttitor eros, in condimentum ante mollis id. Mauris porttitor a.</p>
-      </div>
+      <ItemListContainer />
+      <CartWidget />
     </div>
   )
 }
 
-export default Home
+export default Productos

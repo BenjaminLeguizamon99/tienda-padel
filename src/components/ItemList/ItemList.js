@@ -25,15 +25,19 @@ const ItemList = () => {
 
 
   return (
-    <div className='contenedor-cards'>
-      {productos.map((prod) => {
-        return (
-          <div key={prod.id}>
-            <Item product={prod} />
-          </div>
-        )
-      })}
-    </div>
+    <>
+      <div className='contenedor-cards'>
+        {productos.map((prod) => {
+          return (
+            <div key={prod.id}>
+              <Item product={prod} />
+            </div>
+          )
+        })}
+      </div>
+    </>
+    
+
   )
 }
 

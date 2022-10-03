@@ -1,0 +1,22 @@
+.sobre-nosotros-titulo {
+    font-size: 4rem;
+    margin-top: 1rem;
+    letter-spacing: .4rem;
+    text-transform: uppercase;
+    color: #20313d;
+}
+.sobre-nosotros-parrafo {
+    font-size: 1.5rem;
+}
+.sobre-nosotros-contenedor-cards {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.sobre-nosotros-card {
+    border: 1px solid #20313d;
+    padding: .5rem;
+    border-radius: .5rem;
+}
