@@ -19,11 +19,11 @@ const BarraNavegacion = () => {
                 </NavbarBrand>
                 <NavbarToggle className='toggle-color' />
                 <NavbarCollapse>
-                    <Nav className='ms-auto'>
+                    <Nav className='ms-auto navbar-items-container'>
                         <Nav.Item>
                         <Link to='/' className='link-navbar'>Home</Link>
                         </Nav.Item>
-                        <NavDropdown className='link-navbar' title='Productos'>
+                        <NavDropdown title='Productos' className='nav-dropdown'>
                             <NavDropdown.Item>
                                 <Link to='/categoria/paletas' className='link-navbar'>Paletas</Link>
                             </NavDropdown.Item>
@@ -34,6 +34,7 @@ const BarraNavegacion = () => {
                                 <Link to='/categoria/accesorios' className='link-navbar'>Accesorios</Link>
                             </NavDropdown.Item>
                         </NavDropdown>
+
                         <Nav.Item>
                             <Link to='/about' className='link-navbar'>Sobre nosotros</Link>
                         </Nav.Item>
