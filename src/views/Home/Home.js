@@ -10,7 +10,7 @@ const Productos = () => {
         <div className='container'>
           <div className='row'>
             <div className='col-md-6 contenedor-img-home'>
-              <img src='../../../assets/img-home/tienda.jpg' alt='Foto del local' className='img-fluid my-4 rounded shadow'></img>
+              <img src='../../../assets/img-home/tienda.jpg' alt='Foto del local' className='img-fluid my-5 rounded shadow'></img>
             </div>
             <div className='col-md-6 my-auto'>
               <h1 className=' home-titulo'>Córdoba Padel</h1>
